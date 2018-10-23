@@ -1,0 +1,3 @@
+com\filename\validator\process\FileNameValidator.class
+com\filename\validator\ValidatorApplication.class
+com\filename\validator\result\FileNameValidationResult.class
